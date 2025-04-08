@@ -1,2 +1,2 @@
 # Profle-Card-UI
-Porfile Card UI | HTML & CSS
+Porfile Card UI using HTML and CSS
